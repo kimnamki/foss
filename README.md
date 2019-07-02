@@ -19,3 +19,7 @@
 ### 2일차
 * postgreSQL / PostGis
 * Geoserver
+
+### 3dlfck 
+* QGIS
+* Python
