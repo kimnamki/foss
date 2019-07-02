@@ -20,6 +20,7 @@
 * postgreSQL / PostGis
 * Geoserver
 
-### 3dlfck 
+### 3일차
 * QGIS
-* Python
+* QGIS 플러그인 개발
+* 원격탐사
