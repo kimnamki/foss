@@ -17,10 +17,17 @@
 * 오픈소스 서비스 환경 구축하기
 
 ### 2일차
-* postgreSQL / PostGis
+* postgreSQL 
+* PostGis
 * Geoserver
 
+<<<<<<< HEAD
 ### 3일차
 * QGIS
 * QGIS 플러그인 개발
 * 원격탐사
+=======
+### 3일차 
+* QGIS
+* Python
+>>>>>>> 5a15b1c1e0b5ce14a3179bbfa43d759bab1924f0
